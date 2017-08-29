@@ -4,7 +4,7 @@ public class aa {
 
 	private void sys() {
 		// TODO Auto-generated method stub
-		System.out.println(aa);
+		System.out.println(111111);
 	}
 	
 }
